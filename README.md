@@ -1,5 +1,6 @@
-### Hi there 👋
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF1NXlnYmR1YnIzazM5eWFpMm9uejlidzlhdmQ0N3V0OGx4Y3F6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iV6Ykak9ZBzgX7tOk6/giphy.gif" width ="80"/> Welcome to my GitHub!
 
+![Banner github](banner-github.png)
 <!--
 **SandraBegazo/SandraBegazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
